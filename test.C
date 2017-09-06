@@ -11,5 +11,6 @@ int main ( ) {
   }
   printf("C is alive and well ...\n");
   printf("chavie modification \n");
+  printf("hello from nouakchott \n");
 
 } 
