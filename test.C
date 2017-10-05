@@ -13,4 +13,5 @@ int main ( ) {
   printf("chavie modification \n");
   printf("hello from nouakchott \n");
   printf("Added code to test git merge\n");
+  printf("hi from windows git\n");
 } 
